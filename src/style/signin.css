@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(to right,#c3c3ff,#c3c1ff,#c0bbfe,#bab1f4,#b7acf1,#b2a5eb,#b3a2e9,#b29be1,#b998dd,#c495dd,#d99be6,#d799e4,#d397e1,#cc8fdf,#c78edd,#c78ad7);
+}
+.forms{
+    background-color: #e2dbe7;
+    height: 600px;
+ 
+}
+.buttons{
+    width: 200px;
+    background-image: linear-gradient(to right,#c3c3ff,#c3c1ff,#c0bbfe,#bab1f4,#b7acf1,#b2a5eb,#b3a2e9,#b29be1,#b998dd,#c495dd,#d99be6,#d799e4,#d397e1,#cc8fdf,#c78edd,#c78ad7);
+    border: 0px;
+}
+.inputs1{
+    background: transparent;
+    border-radius: 0px;
+    border-bottom-width: 2px;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: #b7acf1;
+    height: 30px;
+    padding: 0px;
+    color: rgb(105, 102, 102);
+}
+.inputs1:focus{
+    background: transparent;
+    box-shadow: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: #b7acf1;
+   
+}
+.eye{
+    border-bottom-width: 2px;
+    background: transparent;
+    border-bottom-color: #b7acf1;
+    border-radius: 0px;
+    height:30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    cursor: pointer;
+}
+.label{
+    font-weight: 600;
+}
+.title{
+    font-weight: 700;
+}
+u{
+    color: rgb(47, 47, 168);
+    letter-spacing: 2px;
+}

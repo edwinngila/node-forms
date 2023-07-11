@@ -1,0 +1,113 @@
+body{
+    background-image: linear-gradient(to right,#c3c3ff,#c3c1ff,#c0bbfe,#bab1f4,#b7acf1,#b2a5eb,#b3a2e9,#b29be1,#b998dd,#c495dd,#d99be6,#d799e4,#d397e1,#cc8fdf,#c78edd,#c78ad7);
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.button{
+    background-image: linear-gradient(to right,#c3c3ff,#c3c1ff,#c0bbfe,#bab1f4,#b7acf1,#b2a5eb,#b3a2e9,#b29be1,#b998dd,#c495dd,#d99be6,#d799e4,#d397e1,#cc8fdf,#c78edd,#c78ad7);
+    border: 0px solid;
+}
+.forms{
+    background-color: #e2dbe7;
+    height: 100vh;
+}
+.inputs{
+    border: #b2a5eb;
+}
+.space{
+    width: 100px;
+    height:100px ;
+    display: none;
+}
+.inputs1{
+    background: transparent;
+    border-radius: 0px;
+    border-bottom-width: 2px;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: #b7acf1;
+    height: 30px;
+    padding: 0px;
+    color: rgb(114, 112, 112);
+}
+.inputs1:focus{
+    background: transparent;
+    box-shadow: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: #b7acf1;
+}
+.lable{
+    font-weight: 600;
+}
+.eye{
+    height: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: transparent;
+    border-radius: 0px;
+    border-bottom-width: 2px;
+    border-bottom-color: #b7acf1;
+    cursor: pointer;
+}
+u{
+    color: rgb(47, 47, 168);
+    
+}
+.line{
+    letter-spacing: 3px;
+}
+/* @media screen and (max-width:870px){
+    .imgs2{
+        width: 10px;
+        height: 70px;
+        display: none;
+    }
+    .inputs{
+        width: 600px;
+        margin-left: 30px;
+    }
+    .button{
+        margin-left: 170px;
+    }
+}
+@media screen and (max-width:770px){
+    .imgs2{
+        width: 10px;
+        height: 70px;
+        display: none;
+    }
+    .inputs{
+        width: 460px;
+    }
+    .button{
+        margin-left: 110px;
+    }
+}
+@media screen and (max-width:700px){
+    .imgs2{
+        width: 10px;
+        height: 70px;
+        display: none;
+    }
+    .inputs{
+        width: 450px;
+    }
+    .button{
+        margin-left: 50px;
+    }
+}
+@media screen and (max-width:600px){
+    .imgs2{
+        width: 10px;
+        height: 70px;
+        display: none;
+    }
+    .inputs{
+        width: 360px;
+    }
+} */
